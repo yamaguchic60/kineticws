@@ -1,3 +1,5 @@
+このリポジトリは未完成です。！！noeticwsの方は動きます。
+
 kinetic,gazebo,c++,python,pytorch関連を触る人用のdockerfileです。
 ＃まず、Dockerがxサーバに接続するために権限を与える。(注１)
 $ xhost +local:docker
